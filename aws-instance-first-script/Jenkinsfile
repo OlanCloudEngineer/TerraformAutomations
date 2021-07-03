@@ -20,7 +20,7 @@ pipeline {
             }
     stages {
         stage('checkout') {
-            steps {c
+            steps {
                  script{
                         dir("terraform")
                         {
