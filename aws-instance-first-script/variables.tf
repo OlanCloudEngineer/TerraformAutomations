@@ -9,4 +9,3 @@ variable "ami_id" {
 
   }
 }
-s
